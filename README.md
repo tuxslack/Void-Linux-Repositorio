@@ -3,10 +3,13 @@
 Pacotes para 64 bit pronto para se instalado no Void Linux.
 
 
-# Pacote nitrogen-20240421_1.x86_64.xbps
+# nitrogen-20240421_1.x86_64.xbps
 
 * Idioma pt_BR não esta 100% no Void Linux no Arch Linux foi melhor.
-* Suporte para os arquivos: .avif .webp
+* Suporte para os arquivos: .avif, .webp
+  
+<BR>
+
 Como Root:
 
 mkdir -p /opt/voidlinux/binpkgs/nitrogen
@@ -108,7 +111,7 @@ $ ldd `which nitrogen`
 	libbrotlicommon.so.1 => /usr/lib/libbrotlicommon.so.1 (0x00007f9f19932000)
 
 
-# Pacote elementary-xfce-icon-theme-0.19_1.noarch.xbps
+# elementary-xfce-icon-theme-0.19_1.noarch.xbps
 
 mkdir -p /opt/voidlinux/binpkgs/elementary-xfce-icon-theme
 
